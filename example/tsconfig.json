@@ -1,11 +1,12 @@
 {
-  "include": ["lib/**/*.ts"],
+  "include": ["src/**/*.ts"],
   "exclude": ["node_modules", "dist"],
+  "outDir": "dist",
   "compilerOptions": {
     "noImplicitAny": true,
     "target": "es2015",
     "moduleResolution": "node",
-    "esModuleInterop": true,
-    "declaration": true,
+    "isolatedModules": true,
+    "esModuleInterop": true
   }
 }
