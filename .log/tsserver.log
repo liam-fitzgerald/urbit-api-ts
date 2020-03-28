@@ -1,0 +1,253 @@
+Info 0    [17:22:4.341] Starting TS Server
+Info 1    [17:22:4.343] Version: 3.7.2
+Info 2    [17:22:4.343] Arguments: /usr/local/Cellar/node/12.4.0/bin/node /Users/liamfitzgerald/.nvm/versions/node/v11.15.0/bin/tsserver --logFile /Users/liamfitzgerald/dev/urbit/urbit-api-ts/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/7w/hvrpvq7978bbb9kwkbhsn6rr0000gn/T/f22e0bf4ea5354987e28bf69749ee863/tscancellation*
+Info 3    [17:22:4.343] Platform: darwin NodeVersion: 12 CaseSensitive: false
+Info 4    [17:22:4.358] Search path: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/lib
+Info 5    [17:22:4.358] For info: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.ts :: Config file name: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 6    [17:22:4.359] Opened configuration file /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 7    [17:22:4.368] Config: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json : {
+ "rootNames": [
+  "/Users/liamfitzgerald/dev/urbit/urbit-api-ts/src/index.tsx"
+ ],
+ "options": {
+  "noImplicitAny": false,
+  "target": 1,
+  "noEmit": true,
+  "isolatedModules": true,
+  "esModuleInterop": true,
+  "jsx": 1,
+  "baseUrl": "/Users/liamfitzgerald/dev/urbit/urbit-api-ts/src/js",
+  "paths": {
+   "/components": [
+    "components"
+   ],
+   "/components/root": [
+    "components/root"
+   ],
+   "/lib": [
+    "lib"
+   ],
+   "/api": [
+    "api"
+   ],
+   "/reducers": [
+    "reducers"
+   ],
+   "/reducers/config": [
+    "reducers/config"
+   ],
+   "/reducers/update": [
+    "reducers/update"
+   ],
+   "/reducers/initial": [
+    "reducers/initial"
+   ],
+   "/store": [
+    "store"
+   ],
+   "/subscription": [
+    "subscription"
+   ],
+   "/vendor": [
+    "vendor"
+   ]
+  },
+  "configFilePath": "/Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json"
+ }
+}
+Info 8    [17:22:4.370] Starting updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 9    [17:22:4.865] Finishing updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Version: 1 structureChanged: true Elapsed: 495ms
+Info 10   [17:22:4.865] Project '/Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json' (Configured) 
+Info 11   [17:22:4.865] 	Files (5)
+
+Info 12   [17:22:4.865] -----------------------------------------------
+Info 13   [17:22:4.868] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 14   [17:22:5.56] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 188ms
+Info 15   [17:22:5.56] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 16   [17:22:5.56] 	Files (6)
+
+Info 17   [17:22:5.56] -----------------------------------------------
+Info 18   [17:22:34.379] FileWatcher:: Triggered with /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json 1:: WatchInfo: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json 2000 Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json WatchType: Config file
+Info 19   [17:22:34.380] Search path: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/lib
+Info 20   [17:22:34.380] For info: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.ts :: Config file name: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 21   [17:22:34.381] Elapsed:: 1ms FileWatcher:: Triggered with /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json 1:: WatchInfo: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json 2000 Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json WatchType: Config file
+Info 22   [17:22:34.634] Reloading configured project /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 23   [17:22:34.644] Config: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json : {
+ "rootNames": [
+  "/Users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.ts"
+ ],
+ "options": {
+  "noImplicitAny": false,
+  "target": 1,
+  "noEmit": true,
+  "isolatedModules": true,
+  "esModuleInterop": true,
+  "jsx": 1,
+  "baseUrl": "/Users/liamfitzgerald/dev/urbit/urbit-api-ts/src/js",
+  "paths": {
+   "/components": [
+    "components"
+   ],
+   "/components/root": [
+    "components/root"
+   ],
+   "/lib": [
+    "lib"
+   ],
+   "/api": [
+    "api"
+   ],
+   "/reducers": [
+    "reducers"
+   ],
+   "/reducers/config": [
+    "reducers/config"
+   ],
+   "/reducers/update": [
+    "reducers/update"
+   ],
+   "/reducers/initial": [
+    "reducers/initial"
+   ],
+   "/store": [
+    "store"
+   ],
+   "/subscription": [
+    "subscription"
+   ],
+   "/vendor": [
+    "vendor"
+   ]
+  },
+  "configFilePath": "/Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json"
+ }
+}
+Info 24   [17:22:34.646] Starting updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 25   [17:22:34.650] Finishing updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Version: 2 structureChanged: true Elapsed: 4ms
+Info 26   [17:22:34.650] Project '/Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json' (Configured) 
+Info 27   [17:22:34.650] 	Files (6)
+
+Info 28   [17:22:34.650] -----------------------------------------------
+Info 29   [17:22:34.653] Structure before ensureProjectForOpenFiles:
+Info 30   [17:22:34.653] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 31   [17:22:34.654] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 1ms
+Info 32   [17:22:34.654] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 33   [17:22:34.654] 	Files (0)
+
+Info 34   [17:22:34.654] -----------------------------------------------
+Info 35   [17:22:34.655] Structure after ensureProjectForOpenFiles:
+Info 36   [17:22:34.655] got projects updated in background, updating diagnostics for /Users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.ts
+Info 37   [17:22:35.32] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 38   [17:22:35.32] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 0ms
+Info 39   [17:22:35.33] Structure before ensureProjectForOpenFiles:
+Info 40   [17:22:35.33] Structure after ensureProjectForOpenFiles:
+Info 41   [17:22:35.33] got projects updated in background, updating diagnostics for /Users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.ts
+Info 42   [17:22:46.894] FileWatcher:: Triggered with /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json 1:: WatchInfo: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json 2000 Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json WatchType: Config file
+Info 43   [17:22:46.895] Elapsed:: 0ms FileWatcher:: Triggered with /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json 1:: WatchInfo: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json 2000 Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json WatchType: Config file
+Info 44   [17:22:47.148] Reloading configured project /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 45   [17:22:47.156] Config: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json : {
+ "rootNames": [
+  "/Users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.ts"
+ ],
+ "options": {
+  "noImplicitAny": true,
+  "target": 1,
+  "isolatedModules": true,
+  "esModuleInterop": true,
+  "jsx": 1,
+  "baseUrl": "/Users/liamfitzgerald/dev/urbit/urbit-api-ts/src/js",
+  "paths": {
+   "/components": [
+    "components"
+   ],
+   "/components/root": [
+    "components/root"
+   ],
+   "/lib": [
+    "lib"
+   ],
+   "/api": [
+    "api"
+   ],
+   "/reducers": [
+    "reducers"
+   ],
+   "/reducers/config": [
+    "reducers/config"
+   ],
+   "/reducers/update": [
+    "reducers/update"
+   ],
+   "/reducers/initial": [
+    "reducers/initial"
+   ],
+   "/store": [
+    "store"
+   ],
+   "/subscription": [
+    "subscription"
+   ],
+   "/vendor": [
+    "vendor"
+   ]
+  },
+  "configFilePath": "/Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json"
+ }
+}
+Info 46   [17:22:47.157] Starting updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 47   [17:22:47.162] Finishing updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Version: 3 structureChanged: false Elapsed: 5ms
+Info 48   [17:22:47.162] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 49   [17:22:47.166] Structure before ensureProjectForOpenFiles:
+Info 50   [17:22:47.166] Structure after ensureProjectForOpenFiles:
+Info 51   [17:22:47.166] got projects updated in background, updating diagnostics for /Users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.ts
+Info 52   [17:22:52.796] DirectoryWatcher:: Triggered with /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.js :: WatchInfo: /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib 1 Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json WatchType: Wild card directory
+Info 53   [17:22:52.797] Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Detected file add/remove of non supported extension: /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.js
+Info 54   [17:22:52.797] Elapsed:: 1ms DirectoryWatcher:: Triggered with /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.js :: WatchInfo: /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib 1 Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json WatchType: Wild card directory
+Info 55   [17:22:58.556] Starting updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 56   [17:22:58.562] Finishing updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Version: 4 structureChanged: false Elapsed: 6ms
+Info 57   [17:22:58.562] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 58   [17:22:59.548] Starting updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 59   [17:22:59.553] Finishing updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Version: 5 structureChanged: false Elapsed: 4ms
+Info 60   [17:22:59.553] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 61   [17:23:0.477] Starting updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 62   [17:23:0.481] Finishing updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Version: 6 structureChanged: false Elapsed: 4ms
+Info 63   [17:23:0.481] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 64   [17:23:1.45] Starting updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 65   [17:23:1.51] Finishing updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Version: 7 structureChanged: false Elapsed: 6ms
+Info 66   [17:23:1.51] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 67   [17:23:6.547] DirectoryWatcher:: Triggered with /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.js :: WatchInfo: /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib 1 Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json WatchType: Wild card directory
+Info 68   [17:23:6.547] Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Detected file add/remove of non supported extension: /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.js
+Info 69   [17:23:6.547] Elapsed:: 0ms DirectoryWatcher:: Triggered with /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.js :: WatchInfo: /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib 1 Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json WatchType: Wild card directory
+Info 70   [17:23:12.538] Starting updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 71   [17:23:12.547] Finishing updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Version: 8 structureChanged: false Elapsed: 8ms
+Info 72   [17:23:12.547] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 73   [17:23:12.547] Starting updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 74   [17:23:12.550] Finishing updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Version: 9 structureChanged: false Elapsed: 3ms
+Info 75   [17:23:12.550] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 76   [17:23:13.320] Starting updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 77   [17:23:13.326] Finishing updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Version: 10 structureChanged: false Elapsed: 6ms
+Info 78   [17:23:13.326] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 79   [17:23:19.698] DirectoryWatcher:: Triggered with /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.js :: WatchInfo: /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib 1 Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json WatchType: Wild card directory
+Info 80   [17:23:19.698] Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Detected file add/remove of non supported extension: /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.js
+Info 81   [17:23:19.698] Elapsed:: 0ms DirectoryWatcher:: Triggered with /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.js :: WatchInfo: /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib 1 Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json WatchType: Wild card directory
+Info 82   [17:23:36.963] FileWatcher:: Triggered with /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json 1:: WatchInfo: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json 2000 Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json WatchType: Config file
+Info 83   [17:23:36.963] Elapsed:: 0ms FileWatcher:: Triggered with /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json 1:: WatchInfo: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json 2000 Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json WatchType: Config file
+Info 84   [17:23:37.216] Reloading configured project /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 85   [17:23:37.221] Config: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json : {
+ "rootNames": [
+  "/Users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.ts"
+ ],
+ "options": {
+  "noImplicitAny": true,
+  "target": 1,
+  "isolatedModules": true,
+  "esModuleInterop": true,
+  "configFilePath": "/Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json"
+ }
+}
+Info 86   [17:23:37.222] Starting updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json
+Info 87   [17:23:37.485] Finishing updateGraphWorker: Project: /Users/liamfitzgerald/dev/urbit/urbit-api-ts/tsconfig.json Version: 11 structureChanged: true Elapsed: 263ms
+Info 88   [17:23:37.485] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 89   [17:23:37.486] Structure before ensureProjectForOpenFiles:
+Info 90   [17:23:37.486] Structure after ensureProjectForOpenFiles:
+Info 91   [17:23:37.486] got projects updated in background, updating diagnostics for /Users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/index.ts

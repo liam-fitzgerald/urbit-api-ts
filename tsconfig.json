@@ -1,0 +1,11 @@
+{
+  "include": ["lib/**/*.ts"],
+  "exclude": ["node_modules", "dist"],
+  "outDir": "dist",
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "es5",
+    "isolatedModules": true,
+    "esModuleInterop": true
+  }
+}

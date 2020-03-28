@@ -1,0 +1,79 @@
+[17:22:4.544] Global cache location '/Users/liamfitzgerald/Library/Caches/typescript/3.7', safe file path '/users/liamfitzgerald/.nvm/versions/node/v11.15.0/lib/node_modules/typescript/lib/typingsafelist.json', types map path /users/liamfitzgerald/.nvm/versions/node/v11.15.0/lib/node_modules/typescript/lib/typesmap.json
+[17:22:4.546] Processing cache location '/Users/liamfitzgerald/Library/Caches/typescript/3.7'
+[17:22:4.546] Trying to find '/Users/liamfitzgerald/Library/Caches/typescript/3.7/package.json'...
+[17:22:4.550] Loaded content of '/Users/liamfitzgerald/Library/Caches/typescript/3.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.478"},"devDependencies":{"@types/aes-js":"^3.1.0","@types/async-retry":"^1.4.1","@types/atob":"^2.1.2","@types/base64-js":"^1.2.5","@types/bindings":"^1.3.0","@types/bn.js":"^4.11.6","@types/classnames":"^2.2.9","@types/create-hash":"^1.2.2","@types/create-hmac":"^1.1.0","@types/diffie-hellman":"^5.0.0","@types/eslint-plugin-prettier":"^2.2.0","@types/file-saver":"^2.0.1","@types/history":"^4.7.4","@types/isarray":"^2.0.0","@types/js-base64":"^2.3.1","@types/jsbn":"^1.2.29","@types/jsurl":"^1.2.28","@types/jszip":"^3.1.7","@types/ledgerhq__hw-transport":"^4.21.2","@types/ledgerhq__hw-transport-u2f":"^4.21.1","@types/lodash":"^4.14.149","@types/lodash.chunk":"^4.2.6","@types/lodash.isequal":"^4.5.5","@types/node-sass":"^4.11.0","@types/object-assign":"^4.0.30","@types/object-hash":"^1.3.0","@types/passport":"^1.0.2","@types/pbkdf2":"^3.0.0","@types/prettier":"^1.19.0","@types/prop-types":"^15.7.3","@types/randombytes":"^2.0.0","@types/react":"^16.9.17","@types/react-dom":"^16.9.4","@types/readable-stream":"^2.3.5","@types/retry":"^0.12.0","@types/scheduler":"^0.16.1","@types/scrypt":"^6.0.0","@types/secp256k1":"^3.5.0","@types/sjcl":"^1.0.28","@types/sprintf":"^0.1.0","@types/store":"^2.0.2","@types/tape":"^4.2.33","@types/tiny-secp256k1":"^1.0.0","@types/trezor-connect":"^7.0.0","@types/underscore":"^1.9.4","@types/unorm":"^1.3.27","@types/utf8":"^2.1.6","@types/uuid":"^3.4.6","@types/wif":"^2.0.1"}}
+[17:22:4.550] Loaded content of '/Users/liamfitzgerald/Library/Caches/typescript/3.7/package-lock.json'
+[17:22:4.565] Adding entry into typings cache: 'aes-js' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/aes-js/index.d.ts'
+[17:22:4.569] Adding entry into typings cache: 'async-retry' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/async-retry/index.d.ts'
+[17:22:4.571] Adding entry into typings cache: 'atob' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/atob/index.d.ts'
+[17:22:4.575] Adding entry into typings cache: 'base64-js' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/base64-js/index.d.ts'
+[17:22:4.578] Adding entry into typings cache: 'bindings' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/bindings/index.d.ts'
+[17:22:4.583] Adding entry into typings cache: 'bn.js' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/bn.js/index.d.ts'
+[17:22:4.586] Adding entry into typings cache: 'classnames' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/classnames/index.d.ts'
+[17:22:4.590] Adding entry into typings cache: 'create-hash' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/create-hash/index.d.ts'
+[17:22:4.593] Adding entry into typings cache: 'create-hmac' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/create-hmac/index.d.ts'
+[17:22:4.595] Adding entry into typings cache: 'diffie-hellman' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/diffie-hellman/index.d.ts'
+[17:22:4.597] Adding entry into typings cache: 'eslint-plugin-prettier' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/eslint-plugin-prettier/index.d.ts'
+[17:22:4.599] Adding entry into typings cache: 'file-saver' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/file-saver/index.d.ts'
+[17:22:4.603] Adding entry into typings cache: 'history' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/history/index.d.ts'
+[17:22:4.605] Adding entry into typings cache: 'isarray' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/isarray/index.d.ts'
+[17:22:4.606] Adding entry into typings cache: 'js-base64' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/js-base64/index.d.ts'
+[17:22:4.607] Adding entry into typings cache: 'jsbn' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/jsbn/index.d.ts'
+[17:22:4.609] Adding entry into typings cache: 'jsurl' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/jsurl/index.d.ts'
+[17:22:4.611] Adding entry into typings cache: 'jszip' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/jszip/index.d.ts'
+[17:22:4.613] Adding entry into typings cache: 'ledgerhq__hw-transport' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/ledgerhq__hw-transport/index.d.ts'
+[17:22:4.615] Adding entry into typings cache: 'ledgerhq__hw-transport-u2f' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/ledgerhq__hw-transport-u2f/index.d.ts'
+[17:22:4.620] Adding entry into typings cache: 'lodash' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/lodash/ts3.1/index.d.ts'
+[17:22:4.622] Adding entry into typings cache: 'lodash.chunk' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/lodash.chunk/index.d.ts'
+[17:22:4.624] Adding entry into typings cache: 'lodash.isequal' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/lodash.isequal/index.d.ts'
+[17:22:4.625] Adding entry into typings cache: 'node-sass' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/node-sass/index.d.ts'
+[17:22:4.627] Adding entry into typings cache: 'object-assign' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/object-assign/index.d.ts'
+[17:22:4.629] Adding entry into typings cache: 'object-hash' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/object-hash/index.d.ts'
+[17:22:4.632] Adding entry into typings cache: 'passport' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/passport/index.d.ts'
+[17:22:4.635] Adding entry into typings cache: 'pbkdf2' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/pbkdf2/index.d.ts'
+[17:22:4.638] Adding entry into typings cache: 'prettier' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/prettier/index.d.ts'
+[17:22:4.641] Adding entry into typings cache: 'prop-types' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/prop-types/index.d.ts'
+[17:22:4.643] Adding entry into typings cache: 'randombytes' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/randombytes/index.d.ts'
+[17:22:4.647] Adding entry into typings cache: 'react' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/react/index.d.ts'
+[17:22:4.650] Adding entry into typings cache: 'react-dom' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/react-dom/index.d.ts'
+[17:22:4.653] Adding entry into typings cache: 'readable-stream' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/readable-stream/index.d.ts'
+[17:22:4.656] Adding entry into typings cache: 'retry' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/retry/index.d.ts'
+[17:22:4.658] Adding entry into typings cache: 'scheduler' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/scheduler/index.d.ts'
+[17:22:4.659] Adding entry into typings cache: 'scrypt' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/scrypt/index.d.ts'
+[17:22:4.662] Adding entry into typings cache: 'secp256k1' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/secp256k1/index.d.ts'
+[17:22:4.663] Adding entry into typings cache: 'sjcl' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/sjcl/index.d.ts'
+[17:22:4.666] Adding entry into typings cache: 'sprintf' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/sprintf/index.d.ts'
+[17:22:4.669] Adding entry into typings cache: 'store' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/store/index.d.ts'
+[17:22:4.672] Adding entry into typings cache: 'tape' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/tape/index.d.ts'
+[17:22:4.675] Adding entry into typings cache: 'tiny-secp256k1' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/tiny-secp256k1/index.d.ts'
+[17:22:4.677] Adding entry into typings cache: 'trezor-connect' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/trezor-connect/index.d.ts'
+[17:22:4.679] Adding entry into typings cache: 'underscore' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/underscore/index.d.ts'
+[17:22:4.681] Adding entry into typings cache: 'unorm' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/unorm/index.d.ts'
+[17:22:4.683] Adding entry into typings cache: 'utf8' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/utf8/index.d.ts'
+[17:22:4.685] Adding entry into typings cache: 'uuid' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/uuid/index.d.ts'
+[17:22:4.686] Adding entry into typings cache: 'wif' => '/Users/liamfitzgerald/Library/Caches/typescript/3.7/node_modules/@types/wif/index.d.ts'
+[17:22:4.687] Finished processing cache location '/Users/liamfitzgerald/Library/Caches/typescript/3.7'
+[17:22:4.687] Process id: 70452
+[17:22:4.687] NPM location: /usr/local/Cellar/node/12.4.0/bin/npm (explicit '--npmLocation' not  provided)
+[17:22:4.687] validateDefaultNpmLocation: false
+[17:22:4.687] Npm config file: /Users/liamfitzgerald/Library/Caches/typescript/3.7/package.json
+[17:22:4.687] Updating types-registry npm package...
+[17:22:4.688] Exec: /usr/local/Cellar/node/12.4.0/bin/npm install --ignore-scripts types-registry@latest
+[17:22:4.697]     Failed. stdout:
+    
+    stderr:
+    /bin/sh: /usr/local/Cellar/node/12.4.0/bin/npm: No such file or directory
+    
+[17:22:4.697] Updated types-registry npm package
+[17:22:34.758] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":[],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/users/liamfitzgerald/dev/urbit/urbit-api-ts/lib","kind":"discover"}
+[17:22:34.772] Loaded safelist from types map file '/users/liamfitzgerald/.nvm/versions/node/v11.15.0/lib/node_modules/typescript/lib/typesmap.json'
+[17:22:34.773] Explicitly included types: []
+[17:22:34.773] Inferred typings from unresolved imports: []
+[17:22:34.773] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/bower_components","/users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/node_modules"]}
+[17:22:34.774] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/bower_components","/users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/node_modules"]}
+[17:22:34.774] DirectoryWatcher:: Added:: WatchInfo: /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/bower_components
+[17:22:34.775] DirectoryWatcher:: Added:: WatchInfo: /users/liamfitzgerald/dev/urbit/urbit-api-ts/lib/node_modules
+[17:22:34.775] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[17:22:34.776] Response has been sent.
+[17:22:34.776] No new typings were requested as a result of typings discovery
